@@ -1,14 +1,15 @@
-columnSuffix: haeonvqk
+columnSuffix: twdrcxbw
 contentColumnType: text
-fieldGroup: 794caefa-4c9a-4eca-8f28-00d0f726f290 # Common
-handle: fieldSummary
+fieldGroup: 6f4f2032-5655-473a-9891-4c9fe2a4e9fe # FAQ
+handle: fieldFAQAnswer
 instructions: null
-name: Summary
-searchable: false
+name: Answer
+searchable: true
 settings:
   availableTransforms: ''
-  availableVolumes: ''
-  ckeConfig: 1a4c79b2-ddf3-4b72-95e7-852ab2ff7a8e # Basic Text
+  availableVolumes:
+    - 2c79ab96-cdb4-4f4d-b481-9137d17ee4d8 # Image Files
+  ckeConfig: de264fdc-cd4e-4f20-a493-ddc1a8f0745a # Full Block Styling
   columnType: text
   defaultTransform: null
   enableSourceEditingForNonAdmins: false
